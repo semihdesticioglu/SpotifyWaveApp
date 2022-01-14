@@ -20,7 +20,7 @@ Once the server is up and running you can easily use any Wave app.
 
 ### 2. Setup Your Python Environment
 
-in Windows. You can create virtual environments with other tools too.
+You can create virtual environments with other tools too.  These code samples are for Windows. 
 ```bash
 git clone https://github.com/semihdesticioglu/SpotifyWaveApp
 cd SpotifyWaveApp
