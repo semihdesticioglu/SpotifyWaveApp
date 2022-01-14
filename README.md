@@ -5,6 +5,11 @@ This app is created with H2O.ai Wave app. H2O Wave is an open-source Python deve
 To run the app succesfully, firstly, user stream history must be download from the Spotify account. Then the stream history data should be uploaded and submmitted in the app interface to see the data visualisations and the result analysis. 
 
 
+
+https://user-images.githubusercontent.com/55434804/149598379-e39da51e-569f-475d-a82c-be77bc481b66.mp4
+
+
+
 ## Running this App Locally
 
 ### System Requirements
