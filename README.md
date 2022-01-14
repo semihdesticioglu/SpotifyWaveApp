@@ -2,4 +2,4 @@
 A h2o.aiWave app with Spotify data.
 This app
 
-![alt text](screenshots/CAPTURE.PNG)
+![alt text](screenshots/Capture.PNG)
