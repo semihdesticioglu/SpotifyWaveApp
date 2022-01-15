@@ -1,6 +1,6 @@
 # SpotifyWaveApp
 
-This app is created with H2O.ai Wave app. H2O Wave is an open-source Python development framework that makes it fast and easy for data scientists, machine learning engineers, and software developers to develop real-time interactive AI apps with sophisticated visualizations. H2O Wave accelerates development with a wide variety of user-interface components and charts, including dashboard templates, dialogs, themes, widgets, and many more.
+This app is created with H2O Wave. H2O Wave is an open-source Python development framework that makes it fast and easy for data scientists, machine learning engineers, and software developers to develop real-time interactive AI apps with sophisticated visualizations. H2O Wave accelerates development with a wide variety of user-interface components and charts, including dashboard templates, dialogs, themes, widgets, and many more.
 
 To run the app succesfully, firstly, user stream history must be download from the Spotify account. Then the stream history data should be uploaded and submmitted in the app interface to see the data visualisations and the result analysis. 
 
