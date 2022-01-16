@@ -8,7 +8,6 @@ To run the app succesfully, firstly, user stream history must be download from t
 ![alt text](screenshots/Capture.PNG)
 
 
-
 https://user-images.githubusercontent.com/55434804/149651471-437471dd-0452-40e4-a6ae-0656fea81dd1.mp4
 
 
