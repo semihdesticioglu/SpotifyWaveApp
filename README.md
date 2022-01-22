@@ -38,7 +38,7 @@ pip install -r requirements.txt
 ```
 
 ### 3. Run the App
-
+For Windows, just run waved.exe in your folder. For other operating system, see [the documentation](https://wave.h2o.ai/docs/installation).
 ```bash
  wave run spotify_app
 ```
